@@ -1,0 +1,8 @@
+
+spring:
+  profiles:
+    active: cs
+
+server:
+  servlet:
+    context-path: /sypt

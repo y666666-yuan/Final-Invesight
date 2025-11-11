@@ -1,0 +1,12 @@
+# Log file
+*.log
+*.log.gz
+
+
+# Mobile Tools for Java (J2ME)
+.idea
+venv
+data/task_result
+__pycache__
+algorithm/catboost_info
+catboost_info
